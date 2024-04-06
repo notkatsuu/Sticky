@@ -1,5 +1,6 @@
 # STICKY
 An oldie but goodie platform game, written in C# and made with Unity.
+Itch.io link -> https://notkatsuu.itch.io/sticky
 ## Overview
 Sticky is a 2D platform game made by four college students as a project for our 2D game development subject. We went beyond and did more than we were asked to in order to learn as much as we could and to deliver something beautiful and taken care of. We hope you can enjoy grading this as much as we did creating it.
 
