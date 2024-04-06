@@ -6,7 +6,7 @@ The "Delivery 01 - Platformer Game" project aims to develop a simple 2D platform
 
 ## Content
 
-The game must implement the following gameplay elements:
+The game implements the following gameplay elements:
 
 - **Game Start and End Logic**:
   - Title scene (press ENTER to start)
@@ -23,7 +23,7 @@ The game must implement the following gameplay elements:
 
 ## Additional Elements
 
-To enhance the game and earn extra points, developers can include the following:
+To enhance the game and earn extra points, it included:
 
 - Player double jump
 - Player walk, jump, and die animations
